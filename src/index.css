@@ -1,0 +1,13 @@
+.container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: black;
+    height: 98vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+}
